@@ -1,0 +1,15 @@
+l = [1,2,3,4,55]
+
+l.append(7)
+print(l)
+print(l.count(3))
+l.insert(2,35434)
+print(l)
+l.append(1)
+print(l)
+l.pop()
+print(l)
+l.reverse()
+print(l)
+l.sort()
+print(l)
