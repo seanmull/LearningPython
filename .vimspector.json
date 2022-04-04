@@ -10,9 +10,8 @@
         "stopOnEntry": true,
         "console": "externalTerminal",
         "debugOptions": [],
-        "program": "${workspaceRoot}/lamdaExpression.py"
+        "program": "${workspaceRoot}/cookbook/1.10.py"
       }
     }
   }
 }
-
